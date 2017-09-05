@@ -434,6 +434,20 @@ header.masthead {
   .team-member p {
     margin-top: 0; }
 
+.stack {
+  margin-bottom: 50px;
+  text-align: center; }
+  .stack img {
+    width: 125px;
+    height: 125px;
+    border: 7px solid white; }
+  .stack h4 {
+    margin-top: 25px;
+    margin-bottom: 0;
+    text-transform: none; }
+  .stack p {
+    margin-top: 0; }
+
 section#contact {
   background-color: #222222;
   background-image: url("../img/city.png");
