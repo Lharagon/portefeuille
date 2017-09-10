@@ -124,6 +124,8 @@ header.masthead {
   -o-background-size: cover;
   background-size: cover; }
   header.masthead .intro-text {
+    background-color: black;
+    opacity: 0.5;
     padding-top: 150px;
     padding-bottom: 100px; }
     header.masthead .intro-text .intro-lead-in {
@@ -432,6 +434,20 @@ header.masthead {
     margin-bottom: 0;
     text-transform: none; }
   .team-member p {
+    margin-top: 0; }
+
+.stack {
+  margin-bottom: 50px;
+  text-align: center; }
+  .stack img {
+    width: 125px;
+    height: 125px;
+    border: 7px solid white; }
+  .stack h4 {
+    margin-top: 25px;
+    margin-bottom: 0;
+    text-transform: none; }
+  .stack p {
     margin-top: 0; }
 
 section#contact {
