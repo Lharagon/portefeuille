@@ -25,6 +25,13 @@ h6 {
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase; }
 
+.legend {
+  background-color: white;
+}
+.roundedEdges {
+  border-radius: 15px;
+}
+
 section {
   padding: 100px 0; }
   section h2.section-heading {
