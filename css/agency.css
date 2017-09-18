@@ -32,6 +32,11 @@ h6 {
   border-radius: 15px;
 }
 
+.codeLink {
+  color: white;
+  text-decoration: none;
+}
+
 section {
   padding: 100px 0; }
   section h2.section-heading {
